@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\env",
-    "\\static",
-    "\\templates"
+    "\\app",
+    "\\app\\templates",
+    "\\env"
   ],
-  "SelectedNode": "\\app.py",
+  "SelectedNode": "\\app\\templates\\base.html",
   "PreviewInSolutionExplorer": false
 }
