@@ -11,6 +11,6 @@ def index():
 
 
 
-@app.route('/instructor/home/')
+@app.route('/instructor/')
 def instructor_home():
-    return render_template('homepage.html')
+    return render_template('InstructorHomepage.html')
